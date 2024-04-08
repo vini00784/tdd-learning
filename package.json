@@ -1,0 +1,11 @@
+{
+  "name": "ddd_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "typescript": "^5.4.4",
+    "vitest": "^1.4.0"
+  }
+}
